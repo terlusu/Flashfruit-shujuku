@@ -25,7 +25,7 @@ def main():
         print("文字存储系统")
         print("1. 存储文本")
         print("2. 检索文本")
-        print("3. 退出")
+        print("3. 退出系统")
         choice = input("请选择操作 (1/2/3): ")
 
         if choice == "1":
