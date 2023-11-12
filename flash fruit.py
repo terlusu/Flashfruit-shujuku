@@ -29,7 +29,7 @@ def main():
         choice = input("请选择操作 (1/2/3): ")
 
         if choice == "1":
-            text = input("请输入要存储的文本: ")
+            text = input("输入要存储的文本: ")
             save_text(text)
         elif choice == "2":
             stored_text = retrieve_text()
