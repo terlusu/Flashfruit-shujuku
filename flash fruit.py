@@ -22,7 +22,7 @@ def retrieve_text():
 
 def main():
     while True:
-        print("存储系统")#菜单
+        print("文本存储系统")#菜单
         print("1. 存储文本")
         print("2. 检索文本")
         print("3. 退出系统")
